@@ -1,0 +1,35 @@
+.App{
+
+}
+
+.monitor_container{
+  display: flex;
+  margin: 1rem;
+  justify-content: center;
+
+}
+.dashboard_title{
+  text-align: center;
+}
+.display_container{
+  box-shadow: 1px 1px 10px 3px lightgrey;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.unit_container{
+  text-align: right;
+}
+
+.value_container{
+  text-align: center;
+}
+
+.switch_button{
+  margin: 1rem auto;
+  display: block;
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 0.5rem 1rem;
+}
